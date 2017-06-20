@@ -1,0 +1,29 @@
+{
+  "name": "tabs-top",
+  "version": "1.0.0",
+  "description": "Top for Chrome tabs",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "contentScript.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "processes",
+    "tabs"
+  ]
+}
