@@ -8,7 +8,7 @@ Chrome extension shows CPU usage in tab's favicon.
 
 **Important**: Works only with Chrome Dev version!
 
-![Screenshot](https://raw.githubusercontent.com/antonfisher/chrome-tabs-top-ext/docs/images/screenshot-1.png)
+![Demo](https://raw.githubusercontent.com/antonfisher/chrome-tabs-top-ext/docs/images/demo-1.gif)
 
 ## Underhood
 
