@@ -6,9 +6,11 @@ Chrome extension shows CPU usage in tab's favicon.
 ![Status](https://img.shields.io/badge/status-alpha-red.svg)
 ![Status](https://img.shields.io/badge/chrome_version-dev_only-red.svg)
 
-**Important**: Works only with Chrome Dev version!
+**Important**: works only with Chrome Dev version!
 
 ![Demo](https://raw.githubusercontent.com/antonfisher/chrome-tabs-top-ext/docs/images/demo-1.gif)
+
+The extension adds a little bar to the left side of tab's favicon that indicates the CPU usage by the tab.
 
 ## Underhood
 
