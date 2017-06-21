@@ -1,4 +1,4 @@
-# Chrome Tabs Top
+# Google Chrome Tabs-Top Extension
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-alpha-red.svg)
@@ -9,6 +9,8 @@ The extension adds a little bar to the left side of tab's favicon that indicates
 ![Demo](https://raw.githubusercontent.com/antonfisher/chrome-tabs-top-ext/docs/images/demo-1.gif)
 
 **Important**: works only with Chrome Dev version!
+
+Install: [https://chrome.google.com/webstore/detail/tabs-top/kaabimdgphnheiaeppebpdlbinadbkad](https://chrome.google.com/webstore/detail/tabs-top/kaabimdgphnheiaeppebpdlbinadbkad)
 
 ## Underhood
 
