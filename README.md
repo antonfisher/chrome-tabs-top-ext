@@ -1,4 +1,4 @@
-# Google Chrome Tabs-Top Extension
+# Chrome Tabs-Top Extension
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-alpha-red.svg)
